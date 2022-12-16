@@ -1,0 +1,4 @@
+- "x ∈ M" kurz für ”Objekt x ist in Menge M enthalten"
+- ”x ∉ M“ kurz f ̈ur ”Objekt x ist nicht in der Menge M enthalten“
+- Elemente: Objekte x mit "x ∈ M"
+- Extensionale Definition: auflistn aller enthaltenen Elemente e.G {1,2,3,4,5]}
