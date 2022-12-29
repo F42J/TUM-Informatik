@@ -1,0 +1,1 @@
+Das Binärsystem benutzt die Basis 16, als Zahlsymbole sind alsodie normalen Dezimalziffern sowie die Buchstaben A,B,C,D,E,F möglich. Das System basiert wie das Dezimalsystem auf Potenzen für die Weertigkeit der Ziffern, es kann also die [[Allgemeine Formel für Zahlensysteme]] verwendet werden.

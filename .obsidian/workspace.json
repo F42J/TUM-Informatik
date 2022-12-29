@@ -13,13 +13,158 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DS/Allgemein/Diskrete Strukturen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e1a8ae6ead2c708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/Allgemein/Diskrete Strukturen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "376291d01422cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Zahlensysteme/Zahlensysteme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f75e459ed1ca916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Zahlensysteme/Binärsystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0426ecd2c3c223b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Zahlensysteme/Binärsystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b781584e564481e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Gängige Wortlängen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f6ca1543b18f3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Kommazahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b59dac793b938cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Fließkommazahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aa26a70acb1e456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Gängige Wortlängen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f2c5daca2cf553b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edc71d5bd5050f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Festkommazahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07a5ab6dc67f1ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Festkommazahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a0c0d7db30875f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -85,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ERA/Datendarstellung/Ganze Zahlen.md"
               }
             }
           },
@@ -144,17 +289,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "816f54980a165a79",
+  "active": "c1a0c0d7db30875f",
   "lastOpenFiles": [
-    "README.md",
-    "DS/Allgemein/Diskrete Strukturen.md",
-    "DS/Mengen/Begriffe/Extensionale Definition.md",
-    "DS/Mengen/Begriffe/Menge.md",
-    "DS/Mengen/Begriffe/Potenzmenge.md",
-    "DS/Mengen/Begriffe.md",
-    "DS/Mengen/Begriffe/Intensionale Definition.md",
-    "DS/Mengen/Begriffe/Elemente.md",
-    "DS/Mengen.md",
-    "2022-10-27.md"
+    "ERA/Datendarstellung/Festkommazahlen.md",
+    "ERA/Datendarstellung/Festkommaarithmetik.md",
+    "ERA/Zahlensysteme/Hexadezimalsystem.md",
+    "ERA/Zahlensysteme/Allgemeine Formel für Zahlensysteme.md",
+    "ERA/Zahlensysteme/Binärsystem.md",
+    "Attachments/subtraktion_binaer.png",
+    "Attachments/wortlaengen.png",
+    "ERA/Datendarstellung/Kommazahlen.md",
+    "ERA/Datendarstellung/Gängige Wortlängen.md",
+    "ERA/Datendarstellung/Buchstaben.md"
   ]
 }

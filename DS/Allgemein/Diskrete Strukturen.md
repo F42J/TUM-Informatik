@@ -6,4 +6,10 @@ Eine Struktur ist genau dann diskret wenn zwischen zwei Elementen kein weiteres 
 
 Als mathematisches Kriterium gilt, dass die Kardinalität der Menge höchstens der Kardinalität von $\mathbb{N}$ entsprechen darf oder die Menge endlich sein muss.
 
+Die Vorlesung beschäftigt sich mit den folgenden Themen:
+- Graphentheorie
+- Algebra (Eigenschaften bon Strukturen wie [[Menge]] und Körpern)
+- 
+
+
 
