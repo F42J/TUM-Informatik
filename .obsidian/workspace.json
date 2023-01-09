@@ -157,14 +157,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
+                "file": "ERA/Datendarstellung/Buchstaben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "722332c377804089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/ISA (Instruction Set Architecture).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18870ba745276379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Assembler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b184369fc04eff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Von Neumann Architektur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bb5539737fd56ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Von Neumann Architektur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4d0954808ff94a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/ALU - Arithmetic Logic Unit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c25f6d8f9ce79d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Register.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14366c4c33a69234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Assembler.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -230,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
+                "file": "ERA/Assembler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ERA/Datendarstellung/Ganze Zahlen.md",
+                "file": "ERA/Assembler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERA/Datendarstellung/Ganze Zahlen.md"
+                "file": "ERA/Assembler.md"
               }
             }
           },
@@ -287,19 +371,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "c1a0c0d7db30875f",
+  "active": "14366c4c33a69234",
   "lastOpenFiles": [
-    "ERA/Datendarstellung/Festkommazahlen.md",
-    "ERA/Datendarstellung/Festkommaarithmetik.md",
-    "ERA/Zahlensysteme/Hexadezimalsystem.md",
-    "ERA/Zahlensysteme/Allgemeine Formel für Zahlensysteme.md",
-    "ERA/Zahlensysteme/Binärsystem.md",
-    "Attachments/subtraktion_binaer.png",
-    "Attachments/wortlaengen.png",
+    "ERA/ALU - Arithmetic Logic Unit.md",
+    "ERA/Assembler.md",
+    "ERA/Daten und Zugriff im Speicher.md",
+    "ERA/Register.md",
+    "ERA/Maschinenbefehlszyklus.md",
+    "ERA/ISA (Instruction Set Architecture).md",
+    "ERA/Von Neumann Architektur.md",
+    "ERA/Datendarstellung/Buchstaben.md",
     "ERA/Datendarstellung/Kommazahlen.md",
-    "ERA/Datendarstellung/Gängige Wortlängen.md",
-    "ERA/Datendarstellung/Buchstaben.md"
+    "ERA/Datendarstellung/Ganze Zahlen.md"
   ]
 }
