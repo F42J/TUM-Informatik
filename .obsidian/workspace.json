@@ -246,6 +246,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63703fad32a6de9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/Buchstaben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bffa434ff554dbc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Datendarstellung/ASCII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74245b4750ffdef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERA/Befehlscodierung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 19
