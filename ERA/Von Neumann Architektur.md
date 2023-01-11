@@ -16,7 +16,7 @@
 
 ## Speicher:
 
-- Ist in Zellen gleicher größe unterteilt. (Gängige Größen Double Word (32bit) oder Quad Word (64bit))
+- Ist in Zellen gleicher größe unterteilt. ([[Gängige Wortlängen]])
 - Jede Zelle hat eine Adresse und jede Zelle einen Wert.
 
 ## Programmablauf:

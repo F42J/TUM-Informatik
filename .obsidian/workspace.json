@@ -241,50 +241,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Assembler.md",
+                "file": "ERA/ISA (Instruction Set Architecture).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63703fad32a6de9f",
+            "id": "e97e907bc2ceaacc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Datendarstellung/Buchstaben.md",
+                "file": "ERA/Daten und Zugriff im Speicher.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bffa434ff554dbc0",
+            "id": "040e9c8060a12bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Datendarstellung/ASCII.md",
+                "file": "ERA/RISC vs. CISC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74245b4750ffdef8",
+            "id": "c5580b1a79bd04f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Befehlscodierung.md",
+                "file": "ERA/Adressformen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERA/Assembler.md",
+                "file": "ERA/Adressformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ERA/Assembler.md",
+                "file": "ERA/Adressformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERA/Assembler.md"
+                "file": "ERA/Adressformen.md"
               }
             }
           },
@@ -409,17 +409,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "14366c4c33a69234",
+  "active": "c5580b1a79bd04f1",
   "lastOpenFiles": [
-    "ERA/ALU - Arithmetic Logic Unit.md",
-    "ERA/Assembler.md",
+    "ERA/RISC vs. CISC.md",
     "ERA/Daten und Zugriff im Speicher.md",
-    "ERA/Register.md",
-    "ERA/Maschinenbefehlszyklus.md",
     "ERA/ISA (Instruction Set Architecture).md",
     "ERA/Von Neumann Architektur.md",
-    "ERA/Datendarstellung/Buchstaben.md",
-    "ERA/Datendarstellung/Kommazahlen.md",
-    "ERA/Datendarstellung/Ganze Zahlen.md"
+    "ERA/Datendarstellung/Gängige Wortlängen.md",
+    "ERA/Befehlscodierung.md",
+    "ERA/Maschinenbefehlszyklus.md",
+    "ERA/Assembler.md",
+    "ERA/Datendarstellung/Festkommaarithmetik.md",
+    "ERA/Datendarstellung/Buchstaben.md"
   ]
 }
