@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Leitwerk.md",
+                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Speicher.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Leitwerk.md",
+                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Speicher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Leitwerk.md",
+                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Speicher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Leitwerk.md"
+                "file": "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Speicher.md"
               }
             }
           },
@@ -422,15 +422,15 @@
   },
   "active": "aa803abf618edd17",
   "lastOpenFiles": [
-    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Register.md",
-    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Leitwerk.md",
+    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Daten und Zugriff im Speicher.md",
+    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Speicher.md",
     "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Von Neumann Architektur.md",
+    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Leitwerk.md",
+    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Register.md",
     "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Programmausführung.md",
     "ERA/Schichtenmodell Rechnerarchitektur/Schichtenmodell Rechnerarchitektur.md",
     "ERA/ALU - Arithmetic Logic Unit.md",
     "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Befehlscodierung.md",
-    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Maschinenbefehlszyklus.md",
-    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Speicher.md",
-    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Daten und Zugriff im Speicher.md"
+    "ERA/Schichtenmodell Rechnerarchitektur/Von Neumann-Architektur/Maschinenbefehlszyklus.md"
   ]
 }
