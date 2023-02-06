@@ -4,7 +4,7 @@ Dabei können die Befehle auf 2 Arten codiert werden:
 - Einheitliches Format:
 	- feste Länge
 	- leichtes dekodieren
-	- üblich bei RISC ISAs
+	- üblich bei [[RISC vs. CISC|RISC]] ISAs
 	- kein Platz für Adresssen
 	- unflexibel
 - Variables Befehlsformat
